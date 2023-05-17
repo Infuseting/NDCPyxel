@@ -1,0 +1,4 @@
+LEFT_MOVE=pyxel.KEY_0
+RIGHT_MOVE=pyxeL.KEY_D
+TOP_MOVE=pyxel.KEY_Z
+DOWN_MOVE=pyxel.KEY_S
