@@ -3,7 +3,7 @@ Ce projet avait pour but de participer à la nuit du code (Compétition de progr
 QUI A FAIT LE PROJET ?
 ==================================================
 
-Le projet est développé par ma personne (Arthur Serret) ainsi que deux autres personnes qui m'ont accompagné Lucien Darquier et une autre personne qui souhaite rester anonyme.
+Le projet est développé par ma personne ainsi que deux autres personnes qui m'ont accompagnées.
 
 QU'EST CE QUE C'EST ?
 ==================================================
